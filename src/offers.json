@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Pricing",
+    "icon": "pricing_icon.svg",
+    "ourBenefits": [
+      "Based on the number of SKU’s",
+      "$39 - $179 in standard plans,custom price for Enterprise",
+      "Marketplaces included"
+    ],
+    "theirBenefits": [
+      "Based on a variety of factors",
+      "$39 - $399 in standard plans, custom price for Enterprise",
+      "Extra fee for Marketplaces ($99)"
+    ]
+  },
+  {
+    "title": "Easy of Use",
+    "icon": "easeofuse_icon.svg",
+    "ourBenefits": [
+      "Easy and intuitive user interface",
+      "Simple and comprehensible overview of feed rules"
+    ],
+    "theirBenefits": [
+      "User-friendly interface layout",
+      "Complicated rule creation process"
+    ]
+  },
+  {
+    "title": "Support",
+    "icon": "support_icon.svg",
+    "ourBenefits": [
+      "24/7; live chat, email, phone",
+      "9 languages (EN, ES, FR, DE, IT, NL, DK, PT, PL)",
+      "Onboarding session & team training available"
+    ],
+    "theirBenefits": [
+      "9-5 EST; live chat, email, phone",
+      "1 language • Onboarding session & team training available"
+    ]
+  },{
+    "title": "Pricing 4",
+    "icon": "pricing_icon.svg",
+    "ourBenefits": [
+      "Based on the number of SKU’s",
+      "$39 - $179 in standard plans,custom price for Enterprise",
+      "Marketplaces included"
+    ],
+    "theirBenefits": [
+      "Based on a variety of factors",
+      "$39 - $399 in standard plans, custom price for Enterprise",
+      "Extra fee for Marketplaces ($99)"
+    ]
+  },
+  {
+    "title": "Easy of Use 5",
+    "icon": "easeofuse_icon.svg",
+    "ourBenefits": [
+      "Easy and intuitive user interface",
+      "Simple and comprehensible overview of feed rules"
+    ],
+    "theirBenefits": [
+      "User-friendly interface layout",
+      "Complicated rule creation process"
+    ]
+  },
+  {
+    "title": "Support 6",
+    "icon": "support_icon.svg",
+    "ourBenefits": [
+      "24/7; live chat, email, phone",
+      "9 languages (EN, ES, FR, DE, IT, NL, DK, PT, PL)",
+      "Onboarding session & team training available"
+    ],
+    "theirBenefits": [
+      "9-5 EST; live chat, email, phone",
+      "1 language • Onboarding session & team training available"
+    ]
+  },{
+    "title": "Pricing 7",
+    "icon": "pricing_icon.svg",
+    "ourBenefits": [
+      "Based on the number of SKU’s",
+      "$39 - $179 in standard plans,custom price for Enterprise",
+      "Marketplaces included"
+    ],
+    "theirBenefits": [
+      "Based on a variety of factors",
+      "$39 - $399 in standard plans, custom price for Enterprise",
+      "Extra fee for Marketplaces ($99)"
+    ]
+  },
+  {
+    "title": "Easy of Use 8",
+    "icon": "easeofuse_icon.svg",
+    "ourBenefits": [
+      "Easy and intuitive user interface",
+      "Simple and comprehensible overview of feed rules"
+    ],
+    "theirBenefits": [
+      "User-friendly interface layout",
+      "Complicated rule creation process"
+    ]
+  },
+  {
+    "title": "Support 9",
+    "icon": "support_icon.svg",
+    "ourBenefits": [
+      "24/7; live chat, email, phone",
+      "9 languages (EN, ES, FR, DE, IT, NL, DK, PT, PL)",
+      "Onboarding session & team training available"
+    ],
+    "theirBenefits": [
+      "9-5 EST; live chat, email, phone",
+      "1 language • Onboarding session & team training available"
+    ]
+  }
+]

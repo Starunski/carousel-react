@@ -1,0 +1,112 @@
+.carousel {
+  .card {
+    max-width: 358px;
+    min-width: 319px;
+    height: 451px;
+    margin: 45px;
+    padding-top: 26px;
+    padding-right: 20px;
+    flex: 1;
+    text-align: left;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: -2.08px 10px 38px #00000026;
+    border-radius: 10px;
+    opacity: 1;
+    border: 0;
+
+    .card-head {
+      margin-left: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+
+      p {
+        font-family: PTSans-Regular;
+        font-size: 32px;
+        color: #0f7ebe;
+      }
+
+      .card-logo img {
+        width: 60px;
+      }
+    }
+
+    .card-body {
+      margin: 0;
+      padding: 0;
+      font-family: PTSans-Regular;
+      font-size: 16px;
+
+      span {
+        margin-left: 30px;
+        font-size: 20px;
+        font-family: PTSans-Bold;
+      }
+
+      .our-benefits-wrapper {
+        min-height: 9rem;
+        .title {
+          margin-left: 30px;
+          color: #b1cf56;
+        }
+
+        .benefits-list ul {
+          margin-left: 51px;
+        }
+      }
+
+      hr {
+        margin-left: 30px;
+      }
+
+      .their-benefits-wrapper {
+        .title {
+          margin-left: 30px;
+          color: #637280;
+        }
+
+        .their-benefits-list ul {
+          margin-left: 51px;
+          color: #637280;
+        }
+      }
+    }
+
+    .card-foot {
+      position: relative;
+
+      img {
+        overflow: hidden;
+        bottom: 0;
+        width: 104px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .card {
+    height: 412px;
+    margin: 0px;
+    padding-top: 10px;
+    padding-right: 20px;
+    flex: 1 1;
+    text-align: left;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: -2.08px 10px 38px #00000026;
+    border-radius: 10px;
+    opacity: 1;
+    border: 0;
+
+    .card-head p {
+      font-size: 30px;
+    }
+    .card-logo img {
+      width: 53px;
+    }
+    .card-body {
+      font-size: 15px;
+    }
+  }
+}

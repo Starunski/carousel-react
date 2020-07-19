@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 918px;
+
+  ul,
+  li,
+  p,
+  span {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .App {
+    height: 100%;
+  }
+}

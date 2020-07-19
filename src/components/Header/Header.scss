@@ -1,0 +1,36 @@
+.header {
+  .data-feed {
+    font-family: PTSans-Bold;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #0f7ebe;
+    font-size: 56px;
+  }
+
+  .watch {
+    font-family: PTSans-Regular;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #b1cf56;
+    font-size: 56px;
+  }
+  .vs-go-data {
+    font-family: PTSans-Regular;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #292929;
+    font-size: 56px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header {
+    .vs-go-data,
+    .data-feed {
+      font-size: 30px;
+    }
+    .watch {
+      font-size: 40px;
+    }
+  }
+}
