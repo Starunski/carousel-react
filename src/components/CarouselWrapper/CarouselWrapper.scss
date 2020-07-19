@@ -22,16 +22,16 @@
       margin-left: 3px;
       text-indent: -999px;
       cursor: pointer;
-      background-color: #b1cf56;
+      background-color: #ffffff;
       background-clip: padding-box;
-      border-top: 10px solid transparent;
-      border-bottom: 10px solid transparent;
-      opacity: 0.5;
+      border: 2px solid #b1cf56;
+    
       transition: opacity 0.6s ease;
-      .active {
-        opacity: 1;
-        background-color: #b1cf56;
-      }
+     
+    }
+    .active { 
+      opacity: 1;
+      background-color: #b1cf56;
     }
   }
 
